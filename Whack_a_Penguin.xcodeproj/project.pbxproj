@@ -29,6 +29,7 @@
 		49B2DA841ECD4B740082BB47 /* whackMask.png in Resources */ = {isa = PBXBuildFile; fileRef = 49B2DA761ECD4B740082BB47 /* whackMask.png */; };
 		49B2DA851ECD4B740082BB47 /* whackMask@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 49B2DA771ECD4B740082BB47 /* whackMask@2x.png */; };
 		49B2DA881ECD4BAC0082BB47 /* Helper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49B2DA871ECD4BAC0082BB47 /* Helper.swift */; };
+		49B2DA8A1ECE897C0082BB47 /* WhackSlot.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49B2DA891ECE897C0082BB47 /* WhackSlot.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -56,6 +57,7 @@
 		49B2DA761ECD4B740082BB47 /* whackMask.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = whackMask.png; sourceTree = "<group>"; };
 		49B2DA771ECD4B740082BB47 /* whackMask@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "whackMask@2x.png"; sourceTree = "<group>"; };
 		49B2DA871ECD4BAC0082BB47 /* Helper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Helper.swift; sourceTree = "<group>"; };
+		49B2DA891ECE897C0082BB47 /* WhackSlot.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WhackSlot.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +95,7 @@
 				49B2DA581ECD44E10082BB47 /* GameScene.swift */,
 				49B2DA5A1ECD44E10082BB47 /* GameViewController.swift */,
 				49B2DA871ECD4BAC0082BB47 /* Helper.swift */,
+				49B2DA891ECE897C0082BB47 /* WhackSlot.swift */,
 				49B2DA5C1ECD44E10082BB47 /* Main.storyboard */,
 				49B2DA5F1ECD44E10082BB47 /* Assets.xcassets */,
 				49B2DA611ECD44E10082BB47 /* LaunchScreen.storyboard */,
@@ -212,6 +215,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				49B2DA591ECD44E10082BB47 /* GameScene.swift in Sources */,
+				49B2DA8A1ECE897C0082BB47 /* WhackSlot.swift in Sources */,
 				49B2DA5B1ECD44E10082BB47 /* GameViewController.swift in Sources */,
 				49B2DA531ECD44E10082BB47 /* AppDelegate.swift in Sources */,
 				49B2DA881ECD4BAC0082BB47 /* Helper.swift in Sources */,
